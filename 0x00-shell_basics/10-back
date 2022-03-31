@@ -1,2 +1,2 @@
 #!/bin/bash
-fc -e : -2
+cd -
