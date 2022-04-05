@@ -12,3 +12,4 @@ d--x--x--x 6 root root 104 Apr  4 06:13 ..
 -rwxr--r-- 1 root root  37 Apr  4 13:09 8-cwd_state
 -rw-r--r-- 1 root root  45 Apr  4 13:05 \*\"Best
 -rw-r--r-- 1 root root   0 Apr  4 13:10 ls_cwd_content
+-rw-r--r-- 1 root root   0 Apr  4 13:10 ls_cwd_content
